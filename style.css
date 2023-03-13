@@ -1,3 +1,14 @@
 body { 
-    color: rgb(255, 0, 0);
+    background-color: black;
 }
+
+div {
+    color: rgb(255, 0, 0);
+    font-size: 100px;
+
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border: 2px dashed #f69c55;
+    vertical-align: middle;
+  }
